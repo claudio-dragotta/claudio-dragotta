@@ -168,6 +168,31 @@ Intensive program on cybersecurity, artificial intelligence and future technolog
 
 ---
 
+## GitHub Activity & Stats
+
+<div align="center">
+
+### Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/claudio-dragotta/claudio-dragotta/output/snake.svg)
+
+### Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=claudio-dragotta&theme=react-dark&hide_border=true&area=true)
+
+### Detailed Statistics
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudio-dragotta&theme=github_dark" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudio-dragotta&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudio-dragotta&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudio-dragotta&theme=github_dark" width="32%"/>
+</p>
+
+</div>
+
+---
+
 ## Featured Projects
 
 <div align="center">
