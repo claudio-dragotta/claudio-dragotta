@@ -32,10 +32,10 @@ Currently focused on emerging technologies at the intersection of Quantum Comput
 <tr>
 <td width="50%">
 
-#### 🎯 Unique Background: Humanities + Engineering + Trilingualism
+#### Unique Background: Humanities + Engineering + Trilingualism
 Classical-German diploma + AI engineering. Fluent in 3 languages (Italian, German, English) with ability to operate in international and multicultural contexts.
 
-#### 🚀 6 Production-Ready AI/ML Projects
+#### 6 Production-Ready AI/ML Projects
 - **Healthcare AI:** 101k patients analyzed, medical IoT app with QR tracking
 - **Energy Systems:** 88% accuracy PV forecasting, 100-sensor distributed monitoring
 - **Robotics & ML:** Earthquake damage prediction (F1: 0.685), autonomous TiAGO manipulation
@@ -43,10 +43,10 @@ Classical-German diploma + AI engineering. Fluent in 3 languages (Italian, Germa
 </td>
 <td width="50%">
 
-#### 🔬 Quantum Computing & Cybersecurity Focus
+#### Quantum Computing & Cybersecurity Focus
 Emerging specialization in quantum algorithms for cybersecurity and post-quantum cryptography. Participant in Google.org Cybersecurity Seminar Program 2025.
 
-#### 💡 Hybrid Deep Learning Architectures
+#### Hybrid Deep Learning Architectures
 Hands-on experience with CNN-BiLSTM, age-based clustering, advanced feature engineering, and timezone/DST handling for production-ready applications.
 
 </td>
@@ -345,7 +345,7 @@ Open mentality and linguistic skills for collaborations in global and multicultu
 
 ---
 
-## 🚀 Seeking Opportunities
+## Seeking Opportunities
 
 <div align="center">
 
@@ -394,11 +394,11 @@ Portfolio progetti e contributi open source
 
 ---
 
-### 💼 What I Offer
+### What I Offer
 
 <div align="center">
 
-| 🎯 **Target Role** | 💡 **Value Proposition** |
+| **Target Role** | **Value Proposition** |
 |:---:|:---:|
 | **Full-time AI/ML Engineer** | Hybrid DL architectures, proven 88% accuracy |
 | **Quantum Computing Research** | Quantum algorithms for cybersecurity |
@@ -407,7 +407,7 @@ Portfolio progetti e contributi open source
 
 </div>
 
-### 📬 Get in Touch
+### Get in Touch
 
 <div align="center">
 
