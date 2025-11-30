@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Claudio%20Dragotta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Claudio%20Dragotta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%7C+Intelligent+Systems+Specialist;Transforming+Ideas+into+Intelligent+Solutions)](https://git.io/typing-svg)
 
@@ -28,30 +28,16 @@ Currently focused on emerging technologies at the intersection of Quantum Comput
 
 ### Key Differentiators
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-#### Unique Background: Humanities + Engineering + Trilingualism
-Classical-German diploma + AI engineering. Fluent in 3 languages (Italian, German, English) with ability to operate in international and multicultural contexts.
+| **Unique Advantage** | **Impact** |
+|:---|:---|
+| **Trilingual Engineer** (IT/DE/EN) | Classical + AI background for creative problem-solving |
+| **6 Production Projects** | 88% accuracy AI, 101k patients analyzed, 100-sensor systems |
+| **Quantum + Cybersecurity** | Google.org 2025 participant, post-quantum crypto research |
+| **Hybrid DL Architectures** | CNN-BiLSTM, age-clustering, production-ready implementations |
 
-#### 6 Production-Ready AI/ML Projects
-- **Healthcare AI:** 101k patients analyzed, medical IoT app with QR tracking
-- **Energy Systems:** 88% accuracy PV forecasting, 100-sensor distributed monitoring
-- **Robotics & ML:** Earthquake damage prediction (F1: 0.685), autonomous TiAGO manipulation
-
-</td>
-<td width="50%">
-
-#### Quantum Computing & Cybersecurity Focus
-Emerging specialization in quantum algorithms for cybersecurity and post-quantum cryptography. Participant in Google.org Cybersecurity Seminar Program 2025.
-
-#### Hybrid Deep Learning Architectures
-Hands-on experience with CNN-BiLSTM, age-based clustering, advanced feature engineering, and timezone/DST handling for production-ready applications.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -174,20 +160,6 @@ Intensive program on cybersecurity, artificial intelligence and future technolog
 
 ### Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/claudio-dragotta/claudio-dragotta/output/snake.svg)
-
-### Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=claudio-dragotta&theme=react-dark&hide_border=true&area=true)
-
-### Detailed Statistics
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudio-dragotta&theme=github_dark" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudio-dragotta&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudio-dragotta&theme=github_dark" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudio-dragotta&theme=github_dark" width="32%"/>
-</p>
 
 </div>
 
@@ -440,7 +412,7 @@ Portfolio progetti e contributi open source
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=100&section=footer" width="100%"/>
 
 </div>
 
