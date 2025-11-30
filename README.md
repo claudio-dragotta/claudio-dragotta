@@ -28,24 +28,23 @@ Attualmente focalizzato su tecnologie emergenti all'intersezione tra Quantum Com
 
 ### Informazioni Principali
 
-```typescript
-const profile = {
-    location: "Roma, Italy",
-    education: {
-        current: "MSc in Intelligent Systems Engineering",
-        previous: "BSc in Industrial Engineering - Intelligent Systems",
-        background: "Classical Studies + German Diploma"
-    },
-    languages: {
-        italian: "Native",
-        german: "Fluent",
-        english: "Proficient"
-    },
-    expertise: ["Artificial Intelligence", "Quantum Computing", "Cybersecurity", "Data Science"],
-    focus: "Quantum algorithms for security applications and post-quantum cryptography research",
-    interests: "AI/ML Engineering, Quantum Computing, Cybersecurity, Applied Research"
-};
-```
+**Località:** Roma, Italy
+
+**Formazione:**
+- **Attuale:** MSc in Intelligent Systems Engineering
+- **Precedente:** BSc in Industrial Engineering - Intelligent Systems
+- **Background:** Classical Studies + German Diploma
+
+**Lingue:**
+- **Italiano:** Madrelingua
+- **Tedesco:** Fluente
+- **Inglese:** Proficient
+
+**Competenze principali:** Artificial Intelligence, Quantum Computing, Cybersecurity, Data Science
+
+**Focus:** Quantum algorithms for security applications and post-quantum cryptography research
+
+**Interessi:** AI/ML Engineering, Quantum Computing, Cybersecurity, Applied Research
 
 ### Elementi Distintivi
 
