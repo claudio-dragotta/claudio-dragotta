@@ -15,57 +15,39 @@
 
 ---
 
-## Profilo Professionale
+## Professional Profile
 
-> *"L'intelligenza artificiale non sostituisce l'ingegno umano, lo amplifica"*
+> *"Artificial Intelligence doesn't replace human ingenuity, it amplifies it"*
 
-**Studente Magistrale in Ingegneria dei Sistemi Intelligenti**
-Università Campus Bio-Medico di Roma
+**Master's Student in Intelligent Systems Engineering**
+Campus Bio-Medico University of Rome
 
-Ingegnere specializzato in Intelligenza Artificiale con formazione multidisciplinare che integra competenze tecniche avanzate e cultura umanistica. Dal percorso di studi classici con doppio diploma in lingua tedesca alla specializzazione in sistemi intelligenti, ho sviluppato un approccio metodologico rigoroso alle sfide tecnologiche, caratterizzato da pensiero critico, creatività e prospettiva internazionale.
+AI Engineer with multidisciplinary background integrating advanced technical skills and humanistic culture. From classical studies with German diploma to intelligent systems specialization, I've developed a rigorous methodological approach to technological challenges, characterized by critical thinking, creativity, and international perspective.
 
-Attualmente focalizzato su tecnologie emergenti all'intersezione tra Quantum Computing e Cybersecurity, con particolare interesse per algoritmi quantistici applicati alla sicurezza informatica e crittografia post-quantistica.
+Currently focused on emerging technologies at the intersection of Quantum Computing and Cybersecurity, with particular interest in quantum algorithms for security applications and post-quantum cryptography.
 
-### Informazioni Principali
-
-**Località:** Roma, Italy
-
-**Formazione:**
-- **Attuale:** MSc in Intelligent Systems Engineering
-- **Precedente:** BSc in Industrial Engineering - Intelligent Systems
-- **Background:** Classical Studies + German Diploma
-
-**Lingue:**
-- **Italiano:** Madrelingua
-- **Tedesco:** Fluente
-- **Inglese:** Proficient
-
-**Competenze principali:** Artificial Intelligence, Quantum Computing, Cybersecurity, Data Science
-
-**Focus:** Quantum algorithms for security applications and post-quantum cryptography research
-
-**Interessi:** AI/ML Engineering, Quantum Computing, Cybersecurity, Applied Research
-
-### Elementi Distintivi
+### Key Differentiators
 
 <table>
 <tr>
 <td width="50%">
 
-#### Background Multidisciplinare
-Formazione umanistica classica e ingegneristica avanzata per un approccio distintivo alla risoluzione di problemi complessi attraverso metodologie analitiche e creative.
+#### 🎯 Unique Background: Humanities + Engineering + Trilingualism
+Classical-German diploma + AI engineering. Fluent in 3 languages (Italian, German, English) with ability to operate in international and multicultural contexts.
 
-#### Competenze Internazionali
-Fluente in tre lingue (italiano, tedesco, inglese), con esperienza in contesti multiculturali e disponibilità per collaborazioni internazionali.
+#### 🚀 6 Production-Ready AI/ML Projects
+- **Healthcare AI:** 101k patients analyzed, medical IoT app with QR tracking
+- **Energy Systems:** 88% accuracy PV forecasting, 100-sensor distributed monitoring
+- **Robotics & ML:** Earthquake damage prediction (F1: 0.685), autonomous TiAGO manipulation
 
 </td>
 <td width="50%">
 
-#### Approccio Metodologico
-Rigore scientifico nell'analisi dei dati e nello sviluppo di soluzioni basate su intelligenza artificiale, con attenzione alla validazione e interpretabilità dei risultati.
+#### 🔬 Quantum Computing & Cybersecurity Focus
+Emerging specialization in quantum algorithms for cybersecurity and post-quantum cryptography. Participant in Google.org Cybersecurity Seminar Program 2025.
 
-#### Orientamento all'Innovazione
-Continuo aggiornamento sulle tecnologie emergenti e applicazioni innovative nel campo dell'intelligenza artificiale e dei sistemi intelligenti.
+#### 💡 Hybrid Deep Learning Architectures
+Hands-on experience with CNN-BiLSTM, age-based clustering, advanced feature engineering, and timezone/DST handling for production-ready applications.
 
 </td>
 </tr>
@@ -73,37 +55,37 @@ Continuo aggiornamento sulle tecnologie emergenti e applicazioni innovative nel 
 
 ---
 
-## Formazione ed Esperienza
+## Education & Experience
 
-### Percorso Accademico
+### Academic Background
 
-**Laurea Magistrale in Ingegneria dei Sistemi Intelligenti** | 01/09/2024 - Current
-Università Campus Bio-Medico di Roma | Roma, Italy
-Specializzazione in AI, Quantum Computing e Cybersecurity con focus su algoritmi quantistici per applicazioni di sicurezza
+**Master's Degree in Intelligent Systems Engineering** | 09/01/2024 - Current
+Campus Bio-Medico University of Rome | Rome, Italy
+Specialization in AI, Quantum Computing and Cybersecurity with focus on quantum algorithms for security applications
 
-**Laurea Triennale in Ingegneria Industriale** | 01/09/2022 - 01/11/2024
-Università Campus Bio-Medico di Roma | Roma, Italy
-Curriculum in Sistemi Intelligenti con approfondimenti in automazione, AI e analisi dati
+**Bachelor's Degree in Industrial Engineering** | 09/01/2022 - 11/01/2024
+Campus Bio-Medico University of Rome | Rome, Italy
+Intelligent Systems curriculum with focus on automation, AI and data analysis
 
-**Doppio Diploma Classico-Tedesco** | 01/09/2017 - 01/07/2022
+**Classical-German Double Diploma** | 09/01/2017 - 07/01/2022
 Liceo Classico Umberto I | Palermo, Italy | Level EQF 4
-Formazione umanistica classica con indirizzo tedesco, sviluppo competenze linguistiche e pensiero critico
+Classical humanities education with German track, developing linguistic skills and critical thinking
 
-### Programmi Specialistici
+### Specialized Programs
 
 **Google.org Cybersecurity Seminar Program**
-Google.org in collaborazione con Università Campus Bio-Medico | 17/05/2025 - 20/07/2025 | Roma, Italy
-Programma avanzato di cybersecurity con focus su tecnologie emergenti e minacce contemporanee
+Google.org in collaboration with Campus Bio-Medico University | 05/17/2025 - 07/20/2025 | Rome, Italy
+Advanced cybersecurity program focused on emerging technologies and contemporary threats
 
 **CyberX-Mind4Future**
-01/10/2024 - 01/12/2024 | Online
-Programma intensivo su cyber security, intelligenza artificiale e tecnologie future
+10/01/2024 - 12/01/2024 | Online
+Intensive program on cybersecurity, artificial intelligence and future technologies
 
 ---
 
-## Competenze Tecniche
+## Technical Skills
 
-### Linguaggi di Programmazione e Framework
+### Programming Languages & Frameworks
 
 <div align="center">
 
@@ -114,7 +96,7 @@ Programma intensivo su cyber security, intelligenza artificiale e tecnologie fut
 
 </div>
 
-### Intelligenza Artificiale e Machine Learning
+### Artificial Intelligence & Machine Learning
 
 <div align="center">
 
@@ -126,7 +108,7 @@ Programma intensivo su cyber security, intelligenza artificiale e tecnologie fut
 
 </div>
 
-### Data Science e Analisi Dati
+### Data Science & Analytics
 
 <div align="center">
 
@@ -138,7 +120,7 @@ Programma intensivo su cyber security, intelligenza artificiale e tecnologie fut
 
 </div>
 
-### Strumenti e Tecnologie
+### Tools & Technologies
 
 <div align="center">
 
@@ -147,6 +129,18 @@ Programma intensivo su cyber security, intelligenza artificiale e tecnologie fut
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+### Cloud & DevOps
+
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -164,7 +158,7 @@ Programma intensivo su cyber security, intelligenza artificiale e tecnologie fut
 
 ---
 
-## Riconoscimenti GitHub
+## GitHub Achievements
 
 <div align="center">
 
@@ -174,58 +168,112 @@ Programma intensivo su cyber security, intelligenza artificiale e tecnologie fut
 
 ---
 
-## Progetti in Evidenza
+## Featured Projects
 
 <div align="center">
 
 ### [24-Hour Photovoltaic Power Forecasting](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting)
-**Sistema di Deep Learning per Previsione Produzione Fotovoltaica**
+**Deep Learning System for Photovoltaic Production Forecasting**
 
-Implementazione di architettura ibrida CNN-BiLSTM per previsioni di produzione energetica fotovoltaica con 24 ore di anticipo. Il sistema integra feature engineering avanzato, gestione robusta dei fusi orari e transizioni DST, raggiungendo accuracy superiore all'88% su dataset reali australiani comprendenti 2 anni di osservazioni (17.542 campioni orari).
+Hybrid CNN-BiLSTM architecture implementation for 24-hour ahead photovoltaic energy production forecasting. The system integrates advanced feature engineering, robust timezone handling and DST transitions, achieving >88% accuracy on real Australian datasets spanning 2 years of observations (17,542 hourly samples).
 
 `Python` `TensorFlow` `Keras` `CNN-BiLSTM` `Time Series` `Feature Engineering`
 
-**Risultati Principali:**
-- Architettura ibrida con strati Conv1D per estrazione di pattern spaziali e BiLSTM per dipendenze temporali
-- Gestione completa di timezone e transizioni DST per integrazione dati multi-sorgente
-- Metriche: MASE inferiore a 1.0 (performance superiore al baseline naive), correlazione PV-GHI pari a 0.905
+**Key Results:**
+- Hybrid architecture with Conv1D layers for spatial pattern extraction and BiLSTM for temporal dependencies
+- Complete timezone and DST transition handling for multi-source data integration
+- Metrics: MASE < 1.0 (outperforming naive baseline), PV-GHI correlation = 0.905
 
 [![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting)
 
 ---
 
 ### [Diabetes Hospital Readmission Prediction](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT)
-**Pipeline Machine Learning per Predizione Readmission Ospedaliera**
+**Machine Learning Pipeline for Hospital Readmission Prediction**
 
-Sistema avanzato di Machine Learning per predizione del rischio di riammissione ospedaliera a 30 giorni in pazienti diabetici. Architettura a 3 metodi progressivi con clustering basato su stratificazione per età (4 gruppi demografici), quantificazione dell'incertezza e integrazione di regole cliniche per interpretabilità completa.
+Advanced ML system for predicting 30-day hospital readmission risk in diabetic patients. 3-stage progressive architecture with age-based stratification clustering (4 demographic groups), uncertainty quantification, and clinical rules integration for complete interpretability.
 
 `Python` `Scikit-learn` `Pandas` `SMOTE` `Age-Based Clustering` `Clinical AI`
 
-**Risultati Principali:**
-- Dataset: 101.766 pazienti processati attraverso pipeline completa (71.518 pazienti dopo preprocessing)
-- Performance età-specifica: 70.3% (pazienti giovani) fino a 58.5% (pazienti anziani)
-- Confronto sistematico di 4 metodologie clustering (K-means, Decision Tree, Hybrid, Age-based)
-- Sistema production-ready con doppia validazione e gestione incertezza (31% casi identificati per revisione clinica)
+**Key Results:**
+- Dataset: 101,766 patients processed through complete pipeline (71,518 after preprocessing)
+- Age-specific performance: 70.3% (young patients) to 58.5% (elderly patients)
+- Systematic comparison of 4 clustering methodologies (K-means, Decision Tree, Hybrid, Age-based)
+- Production-ready system with double validation and uncertainty handling (31% cases flagged for clinical review)
 
 [![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT)
 
 ---
 
 ### [di-Pen App - Smart Insulin Management](https://github.com/claudio-dragotta/tesi-DPen)
-**Applicazione Mobile per Gestione Terapia Insulinica**
+**Mobile Application for Insulin Therapy Management**
 
-Applicazione sviluppata in Python con framework Kivy per gestione intelligente della terapia insulinica tramite di-Pen, dispositivo smart low-cost che trasforma le penne insuliniche tradizionali in strumenti IoT con processamento AI automatico delle somministrazioni.
+Python/Kivy application for intelligent insulin therapy management via di-Pen, a low-cost smart device that transforms traditional insulin pens into IoT tools with automatic AI-powered administration processing.
 
 `Python` `Kivy` `SQLite` `QR Code` `Mobile Development` `Healthcare IoT`
 
-**Caratteristiche Principali:**
-- Sistema multi-utente con gestione permessi differenziati (pazienti, medici, amministratori)
-- Database SQLite per archiviazione storico completo e monitoraggio longitudinale delle somministrazioni
-- Generazione e scansione QR Code per conferma e tracciabilità delle iniezioni
-- Sistema di alert intelligente per rotazione siti di iniezione (prevenzione lipodistrofia)
-- Interfaccia mobile ottimizzata per utilizzo quotidiano da parte dei pazienti
+**Key Features:**
+- Multi-user system with differentiated permissions (patients, doctors, administrators)
+- SQLite database for complete history storage and longitudinal administration monitoring
+- QR Code generation and scanning for injection confirmation and traceability
+- Intelligent alert system for injection site rotation (lipodystrophy prevention)
+- Mobile interface optimized for daily patient use
 
 [![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/tesi-DPen)
+
+---
+
+### [Richter's Predictor - Earthquake Damage Classification](https://github.com/DanieleLimongi/richter-predictor-fia)
+**Neural Network Ensemble for Building Damage Prediction** | *Collaboration with Daniele Limongi*
+
+Machine learning system predicting earthquake building damage levels from the 2015 Nepal earthquake (DrivenData competition). Features 280+ engineered features from 40 original inputs through 6 specialized modules, with 8-model ensemble from 6 diverse neural architectures.
+
+`Python` `TensorFlow` `Docker` `Neural Networks` `Feature Engineering` `Ensemble Learning`
+
+**Key Results:**
+- **F1-Score: 0.685** (+26.4% improvement over baseline 0.542)
+- Performance by damage level: Low (0.77), Medium (0.54), High (0.73)
+- 280+ engineered features from seismic domain knowledge, temporal degradation, geographic encoding
+- Production-ready with 95%+ test coverage and Docker containerization
+
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DanieleLimongi/richter-predictor-fia)
+
+---
+
+### [TiAGO ArUco Manipulation System](https://github.com/claudio-dragotta/tiago-aruco-manipulation)
+**Autonomous Robotic Pick-and-Place with Computer Vision**
+
+ROS2-based manipulation system for PAL Robotics TiAGO humanoid robot using ArUco marker detection for automated object grasping. Complete autonomous workflow with vision, inverse kinematics, and state machine coordination.
+
+`ROS2 Humble` `Python` `OpenCV` `Gazebo` `Computer Vision` `Robotics` `Inverse Kinematics`
+
+**Key Features:**
+- ArUco marker detection with automatic 3D pose estimation from head camera
+- 7-DOF arm control using Levenberg-Marquardt inverse kinematics
+- Autonomous state machine managing scan → detect → pick → place sequences
+- Multi-object handling (Pringles container, Coca-Cola bottle)
+- 5 coordinated ROS2 nodes with synchronized timing
+
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/tiago-aruco-manipulation)
+
+---
+
+### [EnergyGuard - Distributed Energy Monitoring](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard)
+**Enterprise Real-Time Monitoring System for 100 Sensors Across 5 Sites**
+
+Production-grade distributed system monitoring energy consumption across 100 sensors in 5 geographic locations (Palermo, Roma, Sardegna, Milano, Firenze). Real-time WebSocket communication, integrated observability with Loki/Grafana, and comprehensive security layer.
+
+`Python` `Flask` `React` `Docker` `Redis` `Prometheus` `Grafana` `Loki` `Socket.IO` `Nginx`
+
+**Key Features:**
+- **v2.6.0:** Loki log aggregation, REST API `/api/logs`, pre-configured Grafana dashboards
+- Real-time metrics via WebSocket (gevent) with JWT authentication
+- 3 operational simulation scenarios (sensor failure, site outage, power spike)
+- Economic monitoring with 5-level energy risk zones
+- Docker SDK for programmatic container control
+- Single-command deployment: `docker-compose up`
+
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard)
 
 ---
 
@@ -233,52 +281,52 @@ Applicazione sviluppata in Python con framework Kivy per gestione intelligente d
 
 <div align="center">
   <a href="https://github.com/claudio-dragotta?tab=repositories">
-    <img src="https://img.shields.io/badge/Tutti%20i%20Progetti-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/All%20Projects-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </div>
 
 ---
 
-## Competenze Trasversali
+## Soft Skills
 
 <table>
 <tr>
 <td width="33%" align="center">
 
 ### Problem Solving
-Approccio metodico e creativo alla risoluzione di problemi complessi con capacità di scomposizione e analisi sistematica
+Methodical and creative approach to complex problem-solving with decomposition and systematic analysis capabilities
 
 </td>
 <td width="33%" align="center">
 
-### Pensiero Analitico
-Capacità di analisi critica dei dati e decision making basato su evidenze quantitative e metodologie rigorose
+### Analytical Thinking
+Critical data analysis skills and evidence-based decision making with rigorous methodologies
 
 </td>
 <td width="33%" align="center">
 
-### Collaborazione
-Esperienza in team multiculturali e interdisciplinari con comprovate capacità di comunicazione tecnica
+### Collaboration
+Experience in multicultural and interdisciplinary teams with proven technical communication skills
 
 </td>
 </tr>
 <tr>
 <td width="33%" align="center">
 
-### Adattabilità
-Flessibilità nella gestione di cambiamenti tecnologici e metodologici in contesti dinamici
+### Adaptability
+Flexibility in managing technological and methodological changes in dynamic environments
 
 </td>
 <td width="33%" align="center">
 
-### Apprendimento Continuo
-Costante aggiornamento professionale su tecnologie emergenti e metodologie innovative nel campo AI/ML
+### Continuous Learning
+Constant professional development on emerging technologies and innovative methodologies in AI/ML
 
 </td>
 <td width="33%" align="center">
 
-### Visione Internazionale
-Mentalità aperta e competenze linguistiche per collaborazioni in contesti globali e multiculturali
+### International Mindset
+Open mentality and linguistic skills for collaborations in global and multicultural contexts
 
 </td>
 </tr>
@@ -286,24 +334,26 @@ Mentalità aperta e competenze linguistiche per collaborazioni in contesti globa
 
 ---
 
-## Attività Correnti
+## Current Activities
 
-- Sviluppo tesi magistrale su Quantum Computing e Cybersecurity con focus su algoritmi quantistici per applicazioni di sicurezza
-- Ricerca su crittografia post-quantistica e resilienza dei sistemi crittografici agli attacchi quantistici
-- Sviluppo progetti di ricerca in Deep Learning e Computer Vision
-- Approfondimento metodologico in Reinforcement Learning e Neural Architecture Search
-- Studio applicazioni di Large Language Models e Generative AI
-- Ricerca collaborazioni su progetti di AI applicata, Quantum Computing e Cybersecurity
+- Developing master's thesis on Quantum Computing and Cybersecurity focused on quantum algorithms for security applications
+- Research on post-quantum cryptography and cryptographic system resilience to quantum attacks
+- Developing research projects in Deep Learning and Computer Vision
+- Methodological deep-dive into Reinforcement Learning and Neural Architecture Search
+- Studying Large Language Models and Generative AI applications
+- Seeking collaborations on applied AI, Quantum Computing, and Cybersecurity projects
 
 ---
 
-## Contatti Professionali
+## 🚀 Seeking Opportunities
 
 <div align="center">
 
-### Opportunità di Collaborazione
+### Open to Work | Available Immediately
 
-Disponibile per opportunità professionali che richiedano innovazione tecnologica, competenze tecniche avanzate e approccio multidisciplinare ai sistemi intelligenti.
+**AI/ML Engineer | Quantum Computing Researcher | Cybersecurity Specialist**
+
+Seeking full-time positions, internships, or collaborations on innovative projects where I can apply AI, Quantum Computing, and Cybersecurity to solve real-world problems.
 
 <table>
 <tr>
@@ -344,12 +394,24 @@ Portfolio progetti e contributi open source
 
 ---
 
-### Disponibilità
+### 💼 What I Offer
 
-- Posizioni full-time in AI/ML Engineering, Intelligent Systems, Quantum Computing e Cybersecurity
-- Collaborazioni su progetti di ricerca e sviluppo innovativi in ambito quantistico e sicurezza
-- Stage e tirocini in aziende technology-oriented e centri di ricerca avanzata
-- Progetti di ricerca accademica in Intelligent Systems, Quantum Computing e Cybersecurity Applicata
+<div align="center">
+
+| 🎯 **Target Role** | 💡 **Value Proposition** |
+|:---:|:---:|
+| **Full-time AI/ML Engineer** | Hybrid DL architectures, proven 88% accuracy |
+| **Quantum Computing Research** | Quantum algorithms for cybersecurity |
+| **Healthcare AI Projects** | 3 real-impact medical projects |
+| **International Collaboration** | Trilingual (IT/DE/EN) + Multicultural background |
+
+</div>
+
+### 📬 Get in Touch
+
+<div align="center">
+
+**I respond within 24 hours** | Open to discussions about projects, collaborations, and job opportunities
 
 ---
 
