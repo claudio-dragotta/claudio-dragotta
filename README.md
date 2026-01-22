@@ -33,7 +33,7 @@ Currently focused on emerging technologies at the intersection of Quantum Comput
 | **Unique Advantage** | **Impact** |
 |:---|:---|
 | **Trilingual Engineer** (IT/DE/EN) | Classical + AI background for creative problem-solving |
-| **6 Production Projects** | 88% accuracy AI, 101k patients analyzed, 100-sensor systems |
+| **10+ Projects** | AI, robotics, energy, and full-stack systems across research and production |
 | **Quantum + Cybersecurity** | Google.org 2025 participant, post-quantum crypto research |
 | **Hybrid DL Architectures** | CNN-BiLSTM, age-clustering, production-ready implementations |
 
@@ -148,7 +148,7 @@ Intensive program on cybersecurity, artificial intelligence and future technolog
 
 <div align="center">
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=claudio-dragotta&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=claudio-dragotta&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -274,6 +274,40 @@ Production-grade distributed system monitoring energy consumption across 100 sen
 
 ---
 
+### [Elettric_system](https://github.com/claudio-dragotta/Elettric_system)
+**Energy System Optimization with PV, Wind, Load, and Price Signals**
+
+End-to-end MPC pipeline for energy system studies with configurable scenarios and reproducible reporting. Includes datasets, configuration-driven experiments, and reporting outputs to evaluate operational strategies.
+
+`Python` `Optimization` `MPC` `Energy Systems` `Pandas` `YAML`
+
+**Key Features:**
+- Configuration-driven scenarios in `configs/system.yaml`
+- MPC scheduling and receding horizon runs with CSV outputs
+- Integrated reports with metrics and plots
+- Structured datasets for PV, wind, load, and price signals
+
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/Elettric_system)
+
+---
+
+### [Agent 2 — Consistency & Conflict Analyzer](https://github.com/claudio-dragotta/agent-consistency-analyzer)
+**AI Validator for DDD Models in a Multi-Agent Requirements Pipeline**
+
+Validatore intelligente per modelli Domain-Driven Design (DDD). Analizza coerenza semantica, rileva conflitti tra bounded context, valida architetture event-driven e genera output raffinati per la fase di specifica.
+
+`Python` `LLM` `Domain-Driven Design` `Microservices` `NLP`
+
+**Key Features:**
+- Consistency checks across bounded contexts and domain events
+- Conflict detection for entities, commands, and aggregates
+- Follow-up question generation (template + LLM)
+- Refined output ready for downstream specification agents
+
+[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/agent-consistency-analyzer)
+
+---
+
 </div>
 
 <div align="center">
@@ -281,6 +315,18 @@ Production-grade distributed system monitoring energy consumption across 100 sen
     <img src="https://img.shields.io/badge/All%20Projects-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
   </a>
 </div>
+
+---
+
+## Repository Snapshot
+
+- [Elettric_system](https://github.com/claudio-dragotta/Elettric_system): Energy system study with PV, wind, load, and price signals; MPC pipeline and reports.
+- [24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting): Deep learning pipeline for 24h PV power forecasting with CNN-BiLSTM and robust time handling.
+- [agent-consistency-analyzer](https://github.com/claudio-dragotta/agent-consistency-analyzer): DDD consistency/conflict analyzer for multi-agent microservice requirements generation.
+- [tiago-aruco-manipulation](https://github.com/claudio-dragotta/tiago-aruco-manipulation): ROS2 TiAGO pick-and-place using ArUco detection and inverse kinematics.
+- [Sistema_distribuito_EnergyGuard](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard): Distributed energy monitoring with real-time WebSocket telemetry and observability stack.
+- [Analisi-dei-dati-sul-Diabete-Progetto-MOTT](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT): ML pipeline for diabetes readmission prediction with interpretable clustering.
+- [tesi-DPen](https://github.com/claudio-dragotta/tesi-DPen): Kivy mobile app for smart insulin management with QR tracking and SQLite history.
 
 ---
 
