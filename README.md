@@ -15,22 +15,37 @@
 
 ## About me
 
-```yaml
-name:      Claudio Dragotta
-role:      Engineer — Quantum Computing & Machine Learning
-degree:    MSc Intelligent Systems Engineering, Università Campus Bio-Medico di Roma
-           graduated Oct 2026 · 110/110 cum laude
-thesis:    "Shor's Algorithm under Noise: Machine-Learning Ablation,
-            Quantum Error Correction, and Approximate QFT"
-focus:     [quantum error correction, noisy quantum simulation, machine learning,
-            robotics, distributed systems]
-languages: { Italian: native, English: B2, German: B2 }
-status:    open to work — Italy, Germany and abroad
-```
+I'm an engineer working on **quantum computing** and **machine learning**. I recently
+graduated *110/110 cum laude* in **Intelligent Systems Engineering** at Università Campus
+Bio-Medico di Roma, with a thesis on running Shor's algorithm on noisy quantum hardware and
+protecting it with quantum error correction.
 
 I started from a **classical–German double diploma** and moved into engineering: that mix of
 humanities and hard science shapes how I work — rigorous on method, careful with claims, and
 able to explain a technical result to a non-technical audience.
+
+<table>
+<tr>
+<td>🎓 <b>Degree</b></td>
+<td>MSc Intelligent Systems Engineering — Oct 2026, 110/110 cum laude</td>
+</tr>
+<tr>
+<td>📄 <b>Thesis</b></td>
+<td><i>Shor's Algorithm under Noise: Machine-Learning Ablation, Quantum Error Correction, and Approximate QFT</i></td>
+</tr>
+<tr>
+<td>🔭 <b>Focus</b></td>
+<td>Quantum error correction · noisy quantum simulation · machine learning · robotics · distributed systems</td>
+</tr>
+<tr>
+<td>🌍 <b>Languages</b></td>
+<td>Italian (native) · English (B2) · German (B2)</td>
+</tr>
+<tr>
+<td>💼 <b>Status</b></td>
+<td>Open to work — Italy, Germany and abroad</td>
+</tr>
+</table>
 
 ---
 
