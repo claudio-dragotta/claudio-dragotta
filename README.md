@@ -1,471 +1,196 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=180&section=header&text=Claudio%20Dragotta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+Engineer+%7C+Intelligent+Systems+Specialist;Transforming+Ideas+into+Intelligent+Solutions)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Claudio%20Dragotta&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Quantum%20Computing%20%C2%B7%20Machine%20Learning%20%C2%B7%20Intelligent%20Systems&descSize=16&descAlignY=58" width="100%"/>
 
-  <p>
-    <a href="https://www.linkedin.com/in/claudio-dragotta-04096334b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
-    <a href="mailto:claudiodragotta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/></a>
-    <a href="https://github.com/claudio-dragotta"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
-  </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=MSc+Intelligent+Systems+Engineering+%E2%80%94+110%2F110+cum+laude;Shor's+algorithm+under+noise+%7C+Quantum+Error+Correction;Machine+Learning+%7C+Robotics+%7C+Distributed+Systems;Open+to+work+%E2%80%94+Italy+%26+abroad" alt="Typing SVG"/></a>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=claudio-dragotta&color=0e75b6&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
-
-## Professional Profile
-
-> *"Artificial Intelligence doesn't replace human ingenuity, it amplifies it"*
-
-**Master's Student in Intelligent Systems Engineering**
-Campus Bio-Medico University of Rome
-
-AI Engineer with multidisciplinary background integrating advanced technical skills and humanistic culture. From classical studies with German diploma to intelligent systems specialization, I've developed a rigorous methodological approach to technological challenges, characterized by critical thinking, creativity, and international perspective.
-
-Currently focused on emerging technologies at the intersection of Quantum Computing and Cybersecurity, with particular interest in quantum algorithms for security applications and post-quantum cryptography.
-
-### Key Differentiators
-
-<div align="center">
-
-| **Unique Advantage** | **Impact** |
-|:---|:---|
-| **Trilingual Engineer** (IT/DE/EN) | Classical + AI background for creative problem-solving |
-| **10+ Projects** | AI, robotics, energy, and full-stack systems across research and production |
-| **Quantum + Cybersecurity** | Google.org 2025 participant, post-quantum crypto research |
-| **Hybrid DL Architectures** | CNN-BiLSTM, age-clustering, production-ready implementations |
+<p>
+  <a href="https://www.linkedin.com/in/claudio-dragotta-04096334b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:claudiodragotta@gmail.com"><img src="https://img.shields.io/badge/Email-claudiodragotta%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://shor-demo-6knp.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-Shor%20Lab-06B6D4?style=flat-square&logo=qiskit&logoColor=white" alt="Shor demo"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-Rome%2C%20Italy-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" alt="Rome"/>
+</p>
 
 </div>
 
----
+## About me
 
-## Education & Experience
+```yaml
+name:      Claudio Dragotta
+role:      Engineer — Quantum Computing & Machine Learning
+degree:    MSc Intelligent Systems Engineering, Università Campus Bio-Medico di Roma
+           graduated Oct 2026 · 110/110 cum laude
+thesis:    "Shor's Algorithm under Noise: Machine-Learning Ablation,
+            Quantum Error Correction, and Approximate QFT"
+focus:     [quantum error correction, noisy quantum simulation, machine learning,
+            robotics, distributed systems]
+languages: { Italian: native, English: B2, German: B2 }
+status:    open to work — Italy, Germany and abroad
+```
 
-### Academic Background
-
-**Master's Degree in Intelligent Systems Engineering** | 09/01/2024 - Current
-Campus Bio-Medico University of Rome | Rome, Italy
-Specialization in AI, Quantum Computing and Cybersecurity with focus on quantum algorithms for security applications
-
-**Bachelor's Degree in Industrial Engineering** | 09/01/2022 - 11/01/2024
-Campus Bio-Medico University of Rome | Rome, Italy
-Intelligent Systems curriculum with focus on automation, AI and data analysis
-
-**Classical-German Double Diploma** | 09/01/2017 - 07/01/2022
-Liceo Classico Umberto I | Palermo, Italy | Level EQF 4
-Classical humanities education with German track, developing linguistic skills and critical thinking
-
-### Specialized Programs
-
-**Google.org Cybersecurity Seminar Program**
-Google.org in collaboration with Campus Bio-Medico University | 05/17/2025 - 07/20/2025 | Rome, Italy
-Advanced cybersecurity program focused on emerging technologies and contemporary threats
-
-**CyberX-Mind4Future**
-10/01/2024 - 12/01/2024 | Online
-Intensive program on cybersecurity, artificial intelligence and future technologies
+I started from a **classical–German double diploma** and moved into engineering: that mix of
+humanities and hard science shapes how I work — rigorous on method, careful with claims, and
+able to explain a technical result to a non-technical audience.
 
 ---
 
-## Technical Skills
-
-### Programming Languages & Frameworks
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-Advanced-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-</div>
-
-### Artificial Intelligence & Machine Learning
-
-<div align="center">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-</div>
-
-### Data Science & Analytics
-
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-### Tools & Technologies
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-### Cloud & DevOps
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
-### Quantum Computing e Cybersecurity
-
-<div align="center">
-
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum%20Computing-4A90E2?style=for-the-badge&logo=ibm&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-FF6B6B?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge&logo=security&logoColor=white)
-![Post--Quantum](https://img.shields.io/badge/Post--Quantum%20Crypto-7B68EE?style=for-the-badge&logo=keybase&logoColor=white)
-
-</div>
-
----
-
-## GitHub Achievements
-
-<div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=claudio-dragotta&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## GitHub Activity & Stats
-
-<div align="center">
-
-### Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/claudio-dragotta/claudio-dragotta/output/snake.svg)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-### [24-Hour Photovoltaic Power Forecasting](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting)
-**Deep Learning System for Photovoltaic Production Forecasting**
-
-Hybrid CNN-BiLSTM architecture implementation for 24-hour ahead photovoltaic energy production forecasting. The system integrates advanced feature engineering, robust timezone handling and DST transitions, achieving >88% accuracy on real Australian datasets spanning 2 years of observations (17,542 hourly samples).
-
-`Python` `TensorFlow` `Keras` `CNN-BiLSTM` `Time Series` `Feature Engineering`
-
-**Key Results:**
-- Hybrid architecture with Conv1D layers for spatial pattern extraction and BiLSTM for temporal dependencies
-- Complete timezone and DST transition handling for multi-source data integration
-- Metrics: MASE < 1.0 (outperforming naive baseline), PV-GHI correlation = 0.905
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting)
-
----
-
-### [Diabetes Hospital Readmission Prediction](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT)
-**Machine Learning Pipeline for Hospital Readmission Prediction**
-
-Advanced ML system for predicting 30-day hospital readmission risk in diabetic patients. 3-stage progressive architecture with age-based stratification clustering (4 demographic groups), uncertainty quantification, and clinical rules integration for complete interpretability.
-
-`Python` `Scikit-learn` `Pandas` `SMOTE` `Age-Based Clustering` `Clinical AI`
-
-**Key Results:**
-- Dataset: 101,766 patients processed through complete pipeline (71,518 after preprocessing)
-- Age-specific performance: 70.3% (young patients) to 58.5% (elderly patients)
-- Systematic comparison of 4 clustering methodologies (K-means, Decision Tree, Hybrid, Age-based)
-- Production-ready system with double validation and uncertainty handling (31% cases flagged for clinical review)
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT)
-
----
-
-### [di-Pen App - Smart Insulin Management](https://github.com/claudio-dragotta/tesi-DPen)
-**Mobile Application for Insulin Therapy Management**
-
-Python/Kivy application for intelligent insulin therapy management via di-Pen, a low-cost smart device that transforms traditional insulin pens into IoT tools with automatic AI-powered administration processing.
-
-`Python` `Kivy` `SQLite` `QR Code` `Mobile Development` `Healthcare IoT`
-
-**Key Features:**
-- Multi-user system with differentiated permissions (patients, doctors, administrators)
-- SQLite database for complete history storage and longitudinal administration monitoring
-- QR Code generation and scanning for injection confirmation and traceability
-- Intelligent alert system for injection site rotation (lipodystrophy prevention)
-- Mobile interface optimized for daily patient use
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/tesi-DPen)
-
----
-
-### [Richter's Predictor - Earthquake Damage Classification](https://github.com/DanieleLimongi/richter-predictor-fia)
-**Neural Network Ensemble for Building Damage Prediction** | *Collaboration with Daniele Limongi*
-
-Machine learning system predicting earthquake building damage levels from the 2015 Nepal earthquake (DrivenData competition). Features 280+ engineered features from 40 original inputs through 6 specialized modules, with 8-model ensemble from 6 diverse neural architectures.
-
-`Python` `TensorFlow` `Docker` `Neural Networks` `Feature Engineering` `Ensemble Learning`
-
-**Key Results:**
-- **F1-Score: 0.685** (+26.4% improvement over baseline 0.542)
-- Performance by damage level: Low (0.77), Medium (0.54), High (0.73)
-- 280+ engineered features from seismic domain knowledge, temporal degradation, geographic encoding
-- Production-ready with 95%+ test coverage and Docker containerization
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DanieleLimongi/richter-predictor-fia)
-
----
-
-### [TiAGO ArUco Manipulation System](https://github.com/claudio-dragotta/tiago-aruco-manipulation)
-**Autonomous Robotic Pick-and-Place with Computer Vision**
-
-ROS2-based manipulation system for PAL Robotics TiAGO humanoid robot using ArUco marker detection for automated object grasping. Complete autonomous workflow with vision, inverse kinematics, and state machine coordination.
-
-`ROS2 Humble` `Python` `OpenCV` `Gazebo` `Computer Vision` `Robotics` `Inverse Kinematics`
-
-**Key Features:**
-- ArUco marker detection with automatic 3D pose estimation from head camera
-- 7-DOF arm control using Levenberg-Marquardt inverse kinematics
-- Autonomous state machine managing scan → detect → pick → place sequences
-- Multi-object handling (Pringles container, Coca-Cola bottle)
-- 5 coordinated ROS2 nodes with synchronized timing
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/tiago-aruco-manipulation)
-
----
-
-### [EnergyGuard - Distributed Energy Monitoring](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard)
-**Enterprise Real-Time Monitoring System for 100 Sensors Across 5 Sites**
-
-Production-grade distributed system monitoring energy consumption across 100 sensors in 5 geographic locations (Palermo, Roma, Sardegna, Milano, Firenze). Real-time WebSocket communication, integrated observability with Loki/Grafana, and comprehensive security layer.
-
-`Python` `Flask` `React` `Docker` `Redis` `Prometheus` `Grafana` `Loki` `Socket.IO` `Nginx`
-
-**Key Features:**
-- **v2.6.0:** Loki log aggregation, REST API `/api/logs`, pre-configured Grafana dashboards
-- Real-time metrics via WebSocket (gevent) with JWT authentication
-- 3 operational simulation scenarios (sensor failure, site outage, power spike)
-- Economic monitoring with 5-level energy risk zones
-- Docker SDK for programmatic container control
-- Single-command deployment: `docker-compose up`
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard)
-
----
-
-### [Elettric_system](https://github.com/claudio-dragotta/Elettric_system)
-**Energy System Optimization with PV, Wind, Load, and Price Signals**
-
-End-to-end MPC pipeline for energy system studies with configurable scenarios and reproducible reporting. Includes datasets, configuration-driven experiments, and reporting outputs to evaluate operational strategies.
-
-`Python` `Optimization` `MPC` `Energy Systems` `Pandas` `YAML`
-
-**Key Features:**
-- Configuration-driven scenarios in `configs/system.yaml`
-- MPC scheduling and receding horizon runs with CSV outputs
-- Integrated reports with metrics and plots
-- Structured datasets for PV, wind, load, and price signals
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/Elettric_system)
-
----
-
-### [Agent 2 — Consistency & Conflict Analyzer](https://github.com/claudio-dragotta/agent-consistency-analyzer)
-**AI Validator for DDD Models in a Multi-Agent Requirements Pipeline**
-
-Validatore intelligente per modelli Domain-Driven Design (DDD). Analizza coerenza semantica, rileva conflitti tra bounded context, valida architetture event-driven e genera output raffinati per la fase di specifica.
-
-`Python` `LLM` `Domain-Driven Design` `Microservices` `NLP`
-
-**Key Features:**
-- Consistency checks across bounded contexts and domain events
-- Conflict detection for entities, commands, and aggregates
-- Follow-up question generation (template + LLM)
-- Refined output ready for downstream specification agents
-
-[![GitHub](https://img.shields.io/badge/Repository-View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/claudio-dragotta/agent-consistency-analyzer)
-
----
-
-</div>
-
-<div align="center">
-  <a href="https://github.com/claudio-dragotta?tab=repositories">
-    <img src="https://img.shields.io/badge/All%20Projects-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
-  </a>
-</div>
-
----
-
-## Repository Snapshot
-
-- [Elettric_system](https://github.com/claudio-dragotta/Elettric_system): Energy system study with PV, wind, load, and price signals; MPC pipeline and reports.
-- [24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting): Deep learning pipeline for 24h PV power forecasting with CNN-BiLSTM and robust time handling.
-- [agent-consistency-analyzer](https://github.com/claudio-dragotta/agent-consistency-analyzer): DDD consistency/conflict analyzer for multi-agent microservice requirements generation.
-- [tiago-aruco-manipulation](https://github.com/claudio-dragotta/tiago-aruco-manipulation): ROS2 TiAGO pick-and-place using ArUco detection and inverse kinematics.
-- [Sistema_distribuito_EnergyGuard](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard): Distributed energy monitoring with real-time WebSocket telemetry and observability stack.
-- [Analisi-dei-dati-sul-Diabete-Progetto-MOTT](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT): ML pipeline for diabetes readmission prediction with interpretable clustering.
-- [tesi-DPen](https://github.com/claudio-dragotta/tesi-DPen): Kivy mobile app for smart insulin management with QR tracking and SQLite history.
-
----
-
-## Soft Skills
+## Featured work
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Problem Solving
-Methodical and creative approach to complex problem-solving with decomposition and systematic analysis capabilities
+### ⚛️ [Shor on NISQ hardware & QEC](https://github.com/claudio-dragotta/shor-nisq-qec-thesis)
+**Master's thesis** · advisor Prof. Paolo Soda, co-advisor Prof. Floriano Caprio
+
+Shor's algorithm studied under realistic noise, from physical errors to logical qubits.
+
+- Surface code d = 3…9: threshold ≈ **0.86 %** (Z) / **0.81 %** (X)
+- Approximate QFT on N = 15: holdout success **0.48 → 0.63**, **−23 %** ECR gates
+- Gross code `[[144,12,12]]` vs surface-code patches with BP+OSD
+- Learned + analytic hybrid decoders, honestly benchmarked against MWPM
+
+`Qiskit` `Aer` `Stim` `PyMatching` `Python`
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Analytical Thinking
-Critical data analysis skills and evidence-based decision making with rigorous methodologies
+### 🧪 [Shor Lab — interactive demo](https://github.com/claudio-dragotta/shor-demo)
+**Live:** [shor-demo-6knp.onrender.com](https://shor-demo-6knp.onrender.com/)
 
-</td>
-<td width="33%" align="center">
+Web app that runs Shor step by step for **N = 15, 21, 35** and lets you switch noise channels
+on and off.
 
-### Collaboration
-Experience in multicultural and interdisciplinary teams with proven technical communication skills
+- Ideal simulator vs noise lab (depolarizing, T1/T2, readout, coherent over-rotation)
+- Bloch spheres, inverse-QFT breakdown, guided tour
+- TVD, Hellinger and peak-mass metrics, not just "did it factor"
+
+`FastAPI` `Qiskit` `Docker` `Render` `JavaScript`
 
 </td>
 </tr>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Adaptability
-Flexibility in managing technological and methodological changes in dynamic environments
+### ☀️ [24h-ahead PV power forecasting](https://github.com/claudio-dragotta/24-Hour-Ahead-Photovoltaic-PV-Power-Forecasting)
+Hybrid **CNN-BiLSTM** forecasting photovoltaic output a day ahead on two years of real
+Australian data (17.5k hourly samples).
+
+- MASE < 1 (beats naive baseline), PV–GHI correlation 0.905
+- Robust timezone / DST handling across data sources
+
+`PyTorch` `TensorFlow` `LightGBM` `Optuna` `pvlib`
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Continuous Learning
-Constant professional development on emerging technologies and innovative methodologies in AI/ML
+### 🤖 [TiAGo ArUco manipulation](https://github.com/claudio-dragotta/tiago-aruco-manipulation)
+Autonomous **pick-and-place** with the PAL Robotics TiAGo humanoid.
+
+- ArUco detection + 3D pose estimation from the head camera
+- 7-DOF arm via Levenberg–Marquardt inverse kinematics
+- State machine: scan → detect → pick → place across 5 ROS 2 nodes
+
+`ROS 2 Humble` `Gazebo` `OpenCV` `Python`
 
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### International Mindset
-Open mentality and linguistic skills for collaborations in global and multicultural contexts
+### ⚡ [EnergyGuard](https://github.com/claudio-dragotta/Sistema_distribuito_EnergyGuard)
+Distributed real-time monitoring of **100 sensors across 5 sites**.
+
+- WebSocket telemetry with JWT auth, fault/outage/spike scenarios
+- Observability stack: Prometheus, Grafana, Loki
+- One-command deploy with `docker compose up`
+
+`Flask` `React` `Redis` `Nginx` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [CogVideoX experiments](https://github.com/claudio-dragotta/CogVideoX-experiments)
+Controlled **ablation study** on a 2B-parameter text-to-video diffusion transformer.
+
+- 20 videos, one variable changed at a time, fixed seeds
+- Found a non-linear quality cliff below ~20 denoising steps
+- Runs on ~15 GB VRAM with CPU offload + VAE tiling
+
+`PyTorch` `Diffusers` `Hugging Face` `CUDA`
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [Elettric_system](https://github.com/claudio-dragotta/Elettric_system) | MPC scheduling for a PV + wind + load + price energy system, config-driven scenarios and reports | Python, optimization, YAML |
+| [Diabetes readmission](https://github.com/claudio-dragotta/Analisi-dei-dati-sul-Diabete-Progetto-MOTT) | 30-day readmission prediction on 100k+ patients with age-stratified models and uncertainty flagging | scikit-learn, SMOTE, Pandas |
+| [Consistency analyzer](https://github.com/claudio-dragotta/agent-consistency-analyzer) | LLM-based validator for Domain-Driven Design models in a multi-agent requirements pipeline | Python, LLM, DDD |
+| [di-Pen app](https://github.com/claudio-dragotta/tesi-DPen) | BSc thesis — mobile app for smart insulin-pen management with QR traceability | Kivy, SQLite |
+| [Richter's Predictor](https://github.com/DanieleLimongi/richter-predictor-fia) | Earthquake damage classification, 8-model neural ensemble, F1 0.685 (with D. Limongi) | TensorFlow, Docker |
+
+</details>
+
 ---
 
-## Current Activities
-
-- Developing master's thesis on Quantum Computing and Cybersecurity focused on quantum algorithms for security applications
-- Research on post-quantum cryptography and cryptographic system resilience to quantum attacks
-- Developing research projects in Deep Learning and Computer Vision
-- Methodological deep-dive into Reinforcement Learning and Neural Architecture Search
-- Studying Large Language Models and Generative AI applications
-- Seeking collaborations on applied AI, Quantum Computing, and Cybersecurity projects
-
----
-
-## Seeking Opportunities
+## Tech stack
 
 <div align="center">
 
-### Open to Work | Available Immediately
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,matlab,js,html,css&theme=dark" alt="Languages"/>
 
-**AI/ML Engineer | Quantum Computing Researcher | Cybersecurity Specialist**
+**ML & data**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ML"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="48" alt="Qiskit"/>
 
-Seeking full-time positions, internships, or collaborations on innovative projects where I can apply AI, Quantum Computing, and Cybersecurity to solve real-world problems.
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### LinkedIn
-Rete professionale e opportunità di collaborazione
-
-<a href="https://www.linkedin.com/in/claudio-dragotta-04096334b">
-  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</td>
-<td align="center" width="33%">
-
-### Email
-Contatto diretto per comunicazioni professionali
-
-<a href="mailto:claudiodragotta@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</td>
-<td align="center" width="33%">
-
-### GitHub
-Portfolio progetti e contributi open source
-
-**@claudio-dragotta**
-
-<a href="https://github.com/claudio-dragotta">
-  <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-### What I Offer
-
-<div align="center">
-
-| **Target Role** | **Value Proposition** |
-|:---:|:---:|
-| **Full-time AI/ML Engineer** | Hybrid DL architectures, proven 88% accuracy |
-| **Quantum Computing Research** | Quantum algorithms for cybersecurity |
-| **Healthcare AI Projects** | 3 real-impact medical projects |
-| **International Collaboration** | Trilingual (IT/DE/EN) + Multicultural background |
+**Backend, infra & tools**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,redis,nginx,docker,kubernetes,aws,azure,githubactions,grafana,prometheus,linux,ros,git,vscode&perline=8&theme=dark" alt="Tools"/>
 
 </div>
 
-### Get in Touch
+---
 
-<div align="center">
+## Education & experience
 
-**I respond within 24 hours** | Open to discussions about projects, collaborations, and job opportunities
+| When | What |
+|:--|:--|
+| **Oct 2026** | **MSc Intelligent Systems Engineering** — Università Campus Bio-Medico di Roma · *110/110 cum laude* |
+| **Feb 2025** | **BSc Industrial Engineering** — Università Campus Bio-Medico di Roma |
+| 03 – 09/2025 | **Tutor**, DM 66 digital-skills training courses for school staff — MR Digital (remote) |
+| 05 – 07/2025 | **Google.org Cybersecurity Seminar Program** — with Campus Bio-Medico |
+| 10 – 12/2024 | **CyberX-Mind4Future** — cybersecurity and emerging technologies (online) |
+| 2020 | **Classical–German double diploma** — Liceo Classico Umberto I, Palermo |
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=100&section=footer" width="100%"/>
+## Activity
+
+<div align="center">
+
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/claudio-dragotta/claudio-dragotta/output/snake.svg"/>
 
 </div>
 
-<!--
-Istruzioni personalizzazione:
-- Sostituire "tuo-profilo" con il profilo LinkedIn effettivo
-- Sostituire "tua-email@example.com" con l'indirizzo email professionale
-- Aggiornare informazioni progetti se necessario
-- Aggiungere portfolio website o pubblicazioni se disponibili
--->
+---
+
+<div align="center">
+
+### Let's talk
+
+Looking for roles in **quantum computing**, **machine learning engineering** or **R&D** —
+in Italy, Germany or elsewhere in Europe.
+
+<a href="https://www.linkedin.com/in/claudio-dragotta-04096334b"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:claudiodragotta@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0b1d3a&height=110&section=footer" width="100%"/>
+
+</div>
