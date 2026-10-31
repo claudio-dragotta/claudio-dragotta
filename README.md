@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=720&lines=MSc+Intelligent+Systems+Engineering+%E2%80%94+110%2F110+cum+laude;Shor's+algorithm+under+noise+%7C+Quantum+Error+Correction;Machine+Learning+%7C+Robotics+%7C+Distributed+Systems;Open+to+work+%E2%80%94+Italy+%26+abroad" alt="Typing SVG"/></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/claudio-dragotta-04096334b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/claudiodragotta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:claudiodragotta@gmail.com"><img src="https://img.shields.io/badge/Email-claudiodragotta%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://shor-demo-6knp.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-Shor%20Lab-06B6D4?style=flat-square&logo=qiskit&logoColor=white" alt="Shor demo"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Rome%2C%20Italy-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" alt="Rome"/>
@@ -203,7 +203,7 @@ Controlled **ablation study** on a 2B-parameter text-to-video diffusion transfor
 Looking for roles in **quantum computing**, **machine learning engineering** or **R&D** —
 in Italy, Germany or elsewhere in Europe.
 
-<a href="https://www.linkedin.com/in/claudio-dragotta-04096334b"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/claudiodragotta"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:claudiodragotta@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0b1d3a&height=110&section=footer" width="100%"/>
