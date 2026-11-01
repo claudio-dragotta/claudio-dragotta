@@ -71,7 +71,8 @@ Shor's algorithm studied under realistic noise, from physical errors to logical 
 <td width="50%" valign="top">
 
 ### 🧪 [Shor Lab — interactive demo](https://github.com/claudio-dragotta/shor-demo)
-**Code:** [github.com/claudio-dragotta/shor-demo](https://github.com/claudio-dragotta/shor-demo) · runs locally with Docker
+**Code:** [github.com/claudio-dragotta/shor-demo](https://github.com/claudio-dragotta/shor-demo) · runs locally with Docker  
+**Website:** [shor-demo-6knp.onrender.com](https://shor-demo-6knp.onrender.com/) (currently offline; demo video in the repo README)
 
 Web app that runs Shor step by step for **N = 15, 21, 35** and lets you switch noise channels
 on and off.
