@@ -7,7 +7,7 @@
 <p>
   <a href="https://www.linkedin.com/in/claudiodragotta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:claudiodragotta@gmail.com"><img src="https://img.shields.io/badge/Email-claudiodragotta%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://shor-demo-6knp.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-Shor%20Lab-06B6D4?style=flat-square&logo=qiskit&logoColor=white" alt="Shor demo"/></a>
+  <a href="https://github.com/claudio-dragotta/shor-demo"><img src="https://img.shields.io/badge/Demo%20code-Shor%20Lab-06B6D4?style=flat-square&logo=qiskit&logoColor=white" alt="Shor demo code"/></a>
   <img src="https://img.shields.io/badge/Based%20in-Rome%2C%20Italy-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" alt="Rome"/>
 </p>
 
@@ -71,7 +71,7 @@ Shor's algorithm studied under realistic noise, from physical errors to logical 
 <td width="50%" valign="top">
 
 ### 🧪 [Shor Lab — interactive demo](https://github.com/claudio-dragotta/shor-demo)
-**Live:** [shor-demo-6knp.onrender.com](https://shor-demo-6knp.onrender.com/)
+**Code:** [github.com/claudio-dragotta/shor-demo](https://github.com/claudio-dragotta/shor-demo) · runs locally with Docker
 
 Web app that runs Shor step by step for **N = 15, 21, 35** and lets you switch noise channels
 on and off.
